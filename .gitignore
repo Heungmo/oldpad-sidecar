@@ -1,0 +1,24 @@
+# macOS Finder metadata
+.DS_Store
+
+# Build products
+OldPad Sidecar.app/
+*.dSYM/
+
+# Private reverse-engineering materials and Apple binaries
+NOTES.md
+analysis/
+extracted/
+extraction.log
+dyld-shared-cache-extractor/
+
+# Local investigation tools and their sources
+sidecar_probe
+sidecar_probe.m
+taskport_probe
+taskport_probe.c
+parse_relative_methods.py
+
+# Local editor and temporary files
+.vscode/
+*.swp
