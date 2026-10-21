@@ -1,5 +1,7 @@
 # OldPad Sidecar
 
+**버전 1.0.0** · [English](README.en.md) · [MIT 라이선스](LICENSE)
+
 Apple이 Sidecar 사용을 막아 둔 구형 iPad(iPad Air 2 등)를 Mac의 보조 화면으로 연결하는 실험적인 macOS 앱입니다.
 
 시스템 파일을 패치하지 않습니다. SIP를 끄거나 `/System`을 수정할 필요 없이, macOS가 제공하는 Sidecar 연결 기능을 직접 호출해서 연결합니다.
@@ -90,3 +92,7 @@ macOS의 SidecarCore에는 Sidecar를 거부하는 모델 목록(`unsupportedMod
 ## 참고
 
 이 프로젝트는 개인 실험용입니다. 비공개 프레임워크(`SidecarCore`)를 사용하므로 macOS 업데이트로 언제든 동작하지 않게 될 수 있고, 다른 기기에서의 동작은 보장하지 않습니다.
+
+## 라이선스
+
+[MIT](LICENSE) © 2026 Heungmo
