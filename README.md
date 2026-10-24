@@ -93,6 +93,12 @@ macOS의 SidecarCore에는 Sidecar를 거부하는 모델 목록(`unsupportedMod
 
 이 프로젝트는 개인 실험용입니다. 비공개 프레임워크(`SidecarCore`)를 사용하므로 macOS 업데이트로 언제든 동작하지 않게 될 수 있고, 다른 기기에서의 동작은 보장하지 않습니다.
 
+## 면책
+
+이 프로젝트는 Apple과 관련이 없는 비공식 프로젝트이며, Apple의 후원이나 승인을 받지 않았습니다. Sidecar, iPad, iPadOS, macOS, Mac은 미국 및 다른 국가에서 Apple Inc.의 상표입니다. 이 저장소에는 Apple의 소스 코드나 바이너리가 포함되어 있지 않습니다.
+
+이 앱은 본인이 소유한 기기에서 쓰는 것을 전제로 한 개인 실험이며, 사용에 따른 책임은 사용자에게 있습니다. 자세한 내용은 [MIT 라이선스](LICENSE)의 무보증 조항을 참고하세요.
+
 ## 라이선스
 
 [MIT](LICENSE) © 2026 Heungmo

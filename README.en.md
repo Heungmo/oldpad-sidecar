@@ -95,6 +95,12 @@ This list comes from static analysis and may change with macOS updates. The app 
 
 This is a personal experiment. It uses a private framework (`SidecarCore`), so it may stop working at any time after a macOS update, and behavior on other devices is not guaranteed.
 
+## Disclaimer
+
+This is an unofficial project. It is not affiliated with, endorsed by, or sponsored by Apple. Sidecar, iPad, iPadOS, macOS, and Mac are trademarks of Apple Inc., registered in the U.S. and other countries. This repository does not contain any Apple source code or binaries.
+
+The app is a personal experiment meant to be used with devices you own, and you use it at your own risk. See the no-warranty terms in the [MIT License](LICENSE).
+
 ## License
 
 [MIT](LICENSE) © 2026 Heungmo
